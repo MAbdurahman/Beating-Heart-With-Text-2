@@ -11,7 +11,7 @@ $(function () {
         strings: ['I cannot get YOU off my mind!',
             'I love everything about YOU!',
             'I have been working to start a',
-            'love flame with YOU.',
+            'love flame with YOU!',
             'I know you are not good for me, ',
             'but I love YOU, anyway&nbsp;&nbsp;&#9892;'
         ],
