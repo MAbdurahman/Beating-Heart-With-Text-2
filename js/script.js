@@ -5,8 +5,8 @@
  * @version:  1.0.0
  */
 $(function () {
-    var typed5;
-    typed5 = new Typed('.typing', {
+    var typedMaterial;
+    typedMaterial = new Typed('.typing', {
 
         strings: ['I cannot get YOU off my mind!',
             'I love everything about YOU!',
@@ -26,5 +26,4 @@ $(function () {
         loopCount: 3
 
     });
-
 });

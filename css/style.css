@@ -23,7 +23,7 @@ body {
     position: relative;
     bottom: 35%;
     color: white;
-    height: max-content;
+    height: 21px;
 }
 .typing:after {
     content: '';
